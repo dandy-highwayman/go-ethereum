@@ -2,7 +2,7 @@ module github.com/dandy-highwayman/go-ethereum
 
 go 1.17
 
-replace github.com/ethereum/go-ethereum => github.com/dandy-highwayman/go-ethereum
+replace github.com/ethereum/go-ethereum => github.com/dandy-highwayman/go-ethereum master
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v0.3.0
